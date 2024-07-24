@@ -15,7 +15,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 
 
-- 🔭 Atualmente estou cursando estatística na **UFCG** onde sou membro do [PET - Matemática e Estatística](http://mat.ufcg.edu.br/petmatest/)
+- 🔭 Atualmente sou mestrando em estátistica na **UNICAMP**.
 
 - 👯 Procuro colaborar em **projetos de ciência de dados e business intelligence**
 
