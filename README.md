@@ -23,7 +23,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, business intelligence e etc; Ficarei feliz em ajudar!**
 
-- 📫 Fale comigo em **ronaldo.costa@estudante.ufcg.edu.br**
+- 📫 Fale comigo em **r291041@dac.unicamp.br**
 
 - 📄 Saiba mais em meu linkedin [ronaldocsilva](https://www.linkedin.com/in/ronaldocsilva)
 
